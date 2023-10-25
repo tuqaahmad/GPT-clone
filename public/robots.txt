@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# black-listed-bot
+User-agent: black-listed-bot
+Disallow: /termsconditions
+Disallow: /privacypolicy
+
+# Host
+Host: https://alzubda.com
+
+# Sitemaps
+Sitemap: https://alzubda.com/sitemap.xml
